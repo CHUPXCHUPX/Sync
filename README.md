@@ -10,3 +10,7 @@ input deeplearned file
 now this program is demo version that is not completed and entail many errors
 
 [please use only educational perposes]
+
+
+thx for help
+juni, liar
